@@ -1,0 +1,31 @@
+.dashboard-container {
+  position: relative;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.logout-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #9b1d1d;
+}
+
+.dashboard-header {
+  background: #001529;
+  padding: 0 20px;
+}
+
+.dashboard-content {
+  padding: 20px;
+  background: #fff;
+}

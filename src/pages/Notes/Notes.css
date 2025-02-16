@@ -1,0 +1,20 @@
+.notes-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.notes-container .ant-input {
+  width: 100%;
+}
+
+.notes-container .ant-btn {
+  width: 100%;
+}
+
+.notes-container .ant-list {
+  margin-top: 20px;
+}
